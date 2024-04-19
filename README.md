@@ -24,10 +24,6 @@ To use Sorting Visualizer:
 ## Contributors
 - Ravi Saini
 
-Demo You can access the live demo of the application by going through the link given below
-
-([https://drive.google.com/file/d/15fndulPvpVOS6eETgKmBib18AE68moNW/view?usp=sharing])
-
 if you want to visit the site, you can go to link given below
 
 ([https://sorting-visualiser-mu.vercel.app])
